@@ -1,0 +1,19 @@
+.pageHeader{
+    display: flex;
+    justify-content: center;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 2px;
+}
+
+.shop{
+    display: flex;
+    flex-basis: 33%;  
+}
+
